@@ -1,0 +1,11 @@
+{
+  "normalStoreUrl": "https://maverick-theme.mybigcommerce.com",
+  "accessToken": "2aejoreddd20lzysc0b0vwv86vqsgww",
+  "port": 3000,
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
